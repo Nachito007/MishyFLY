@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=labsoer
+comment1.params=EndX\ EndY
+comment1.target=labsoer(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
